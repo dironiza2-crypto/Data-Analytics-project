@@ -1,4 +1,4 @@
-# Data-Analytics-project
+# Data-Wrangling-project
 We rate Dogs
 Data Wrangling Project
 
